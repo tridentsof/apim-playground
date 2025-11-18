@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Laptop",
+    "description": "High-performance laptop for development work",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": null
+  },
+  {
+    "id": 2,
+    "name": "Wireless Mouse",
+    "description": "Ergonomic wireless mouse with long battery life",
+    "createdAt": "2024-01-16T14:20:00Z",
+    "updatedAt": null
+  },
+  {
+    "id": 3,
+    "name": "Mechanical Keyboard",
+    "description": "RGB mechanical keyboard with Cherry MX switches",
+    "createdAt": "2024-01-17T09:15:00Z",
+    "updatedAt": "2024-01-18T11:45:00Z"
+  },
+  {
+    "id": 4,
+    "name": "Monitor",
+    "description": "27-inch 4K monitor with HDR support",
+    "createdAt": "2024-01-18T16:00:00Z",
+    "updatedAt": null
+  },
+  {
+    "id": 5,
+    "name": "USB-C Hub",
+    "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader",
+    "createdAt": "2024-01-19T08:30:00Z",
+    "updatedAt": null
+  }
+]
+
